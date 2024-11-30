@@ -1,7 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an account management website project for the unit ICT30001 - Information technology project of Swinburne Uni
+This is an account management website project for the unit ICT30001 - Information technology project of Swinburne Univeristy.
+Designed and developed by Group 3.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
